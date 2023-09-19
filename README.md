@@ -1,2 +1,2 @@
 # RLData
-The data are available in the releases, while the code is being organized and waiting to be uploaded.
+The data can be found in the release, while the code is being organized and is awaiting upload.
